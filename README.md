@@ -1,2 +1,2 @@
-# ONLINE_BOOK_STORE-_PROJECT
-Online-Book-Store-Using-Spring-Boot-Thymeleaf-CRUD-APPLICATION-PROJECT 
+# ONLINE_BOOK_STORE_PROJECT
+📚 BOOK STORE – A Spring Boot + Thymeleaf CRUD Application ♨️🍃
