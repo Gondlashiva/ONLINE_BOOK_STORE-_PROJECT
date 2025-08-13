@@ -41,7 +41,7 @@ Additionally, you can mark books as your favorites, which will then appear in th
 ![My Books]() 
 
 ### 🛢️ **Database**
-![DB_Book]()
+![DB_My_Book](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/d2347c77a34c24c5637519103330c2f8233f994c/Online_Book_Store/images/My_SQL%20books.png)
 
 ### 🛢️ **Database**
-![DB_My_Book](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/ec3b22ef33a0436d1798faeccd674005b21a69a9/Online_Book_Store/images/My_SQL%20My_Books.png)
+![DB_Book](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/ec3b22ef33a0436d1798faeccd674005b21a69a9/Online_Book_Store/images/My_SQL%20My_Books.png)
