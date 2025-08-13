@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link crossorigin="anonymous"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+          rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" th:href="@{/styleSheet/style.css}">
+
+    <title>Book Store</title>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand text-white" th:href="@{/}">Book Store</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active text-white" th:href="@{/}">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" th:href="@{/available_books}">Available Books</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" th:href="@{/my_books}">My Books</a>
+                </li>
+            </ul>
+            <div>
+                <a class="nav-link text-white" th:href="@{/book_register}">New Book Register</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<!-- Edit Book Form -->
+<div class="container my-5 p-5 form-container">
+    <h2 class="text-center">Edit Book Details</h2>
+    <form class="col-md-4 offset-md-4" th:action="@{/save}" method="post" th:object="${book}">
+        <input type="hidden" th:field="*{id}">
+
+        <div class="mb-3">
+            <label class="form-label" for="name">Book Name</label>
+            <input type="text" class="form-control text-center" th:field="*{name}" placeholder="Enter Book Name">
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label" for="author">Author Name</label>
+            <input type="text" class="form-control text-center" th:field="*{author}" placeholder="Enter Author Name">
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label" for="price">Book Price</label>
+            <input type="text" class="form-control text-center" th:field="*{price}" placeholder="Enter Book Price">
+        </div>
+
+        <div class="text-center">
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </div>
+    </form>
+</div>
+
+<!-- Bootstrap JS -->
+<script crossorigin="anonymous"
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"></script>
+
+</body>
+</html>
