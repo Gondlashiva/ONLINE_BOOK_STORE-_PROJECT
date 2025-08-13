@@ -29,4 +29,4 @@ Additionally, you can mark books as your favorites, which will then appear in th
 ## 📸 **Screenshots**  
 
 ### 🏠 **Home Page**
-![Home Page]()
+![Home Page](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/c2e839c0f538e2779dbb5312001e01735334b9ea/Online_Book_Store/images/HOME_PAGE.png)
