@@ -44,4 +44,4 @@ Additionally, you can mark books as your favorites, which will then appear in th
 ![DB_Book]()
 
 ### 🛢️ **Database**
-![DB_My_Book](My_SQL My_Books.png)
+![DB_My_Book](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/ec3b22ef33a0436d1798faeccd674005b21a69a9/Online_Book_Store/images/My_SQL%20My_Books.png)
