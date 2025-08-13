@@ -30,3 +30,18 @@ Additionally, you can mark books as your favorites, which will then appear in th
 
 ### 🏠 **Home Page**
 ![Home Page](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/c2e839c0f538e2779dbb5312001e01735334b9ea/Online_Book_Store/images/HOME_PAGE.png)
+
+### 🆕 **Add New Book**
+![Add Book]()
+
+### 📚 **Available Books**
+![Available Books]()
+
+### ❤️ **My Books**
+![My Books]() 
+
+### 🛢️ **Database**
+![DB_Book]()
+
+### 🛢️ **Database**
+![DB_My_Book]()
