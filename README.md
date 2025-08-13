@@ -32,13 +32,15 @@ Additionally, you can mark books as your favorites, which will then appear in th
 ![Home Page](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/c2e839c0f538e2779dbb5312001e01735334b9ea/Online_Book_Store/images/HOME_PAGE.png)
 
 ### 🆕 **Add New Book**
-![Add Book]()
+![Add Book](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/3802dd5fc0ffcfff8df66363755aebf6ac8c490b/Online_Book_Store/images/New_book_register.png
+)
 
 ### 📚 **Available Books**
-![Available Books]()
+![Available Books](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/3802dd5fc0ffcfff8df66363755aebf6ac8c490b/Online_Book_Store/images/Available_books.png
+)
 
 ### ❤️ **My Books**
-![My Books]() 
+![My Books](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/3802dd5fc0ffcfff8df66363755aebf6ac8c490b/Online_Book_Store/images/My_books.png) 
 
 ### 🛢️ **Database**
 ![DB_My_Book](https://github.com/Gondlashiva/ONLINE_BOOK_STORE-_PROJECT/blob/d2347c77a34c24c5637519103330c2f8233f994c/Online_Book_Store/images/My_SQL%20books.png)
