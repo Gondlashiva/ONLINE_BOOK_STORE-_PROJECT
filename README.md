@@ -27,3 +27,6 @@ Additionally, you can mark books as your favorites, which will then appear in th
 
 
 ## 📸 **Screenshots**  
+
+### 🏠 **Home Page**
+![Home Page]()
